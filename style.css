@@ -1,0 +1,14 @@
+img {
+   height:100px;
+   width:100px;
+}
+p img {
+    height:100px;
+    width:100px;
+}
+body {
+    text-align: center;
+    background-image: linear-gradient(to left,yellow,orange,yellow,orange,yellow,orange);
+    color: white;
+    box-shadow: 3 3 3 3;
+}
